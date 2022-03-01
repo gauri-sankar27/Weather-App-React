@@ -25,6 +25,7 @@ function App() {
           })
         .catch(err => console.log(err));
     }
+  
   }
 
   const dateBuilder = (d) => {
